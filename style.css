@@ -1,0 +1,184 @@
+#container{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+
+#navbar{
+    display: flex;
+    justify-content: space-around;
+}
+#top-body{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+}
+.top-text{
+    font-size: 50px;
+}
+.top-image{
+    margin-right: 30%;
+}
+#mid-content{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+}
+.ladies-accessories{
+    display: flex;
+    justify-content: space-around;
+}
+.ladies-accessories{
+    display: flex;
+    justify-content: space-around;
+}
+.sandals{
+    padding: 20px;
+}
+.mid-text{
+    display: flex;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 25px;
+    justify-content: space-between;
+}
+#mid-photos1{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+#mid-photos2{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.beanie{
+    display: flex;
+}
+.cyprie{
+    display: flex;
+}
+#middle-photo{
+    display: flex;
+    gap: 60px;
+    justify-content: space-around;
+    padding: 90px;
+}
+.text0{
+    margin-right: 60%;
+}
+#bottom-photos1{
+    display: flex;
+    justify-content: space-around;
+}
+.bottom-text{
+    margin-left: 45%;
+    padding: 100px;
+}
+#bottom-photos{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+#footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+@media screen and(max-width = 600px) {#container{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+
+#navbar{
+    display: flex;
+    justify-content: space-around;
+}
+#top-body{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+}
+.top-text{
+    font-size: 50px;
+}
+.top-image{
+    margin-right: 30%;
+}
+#mid-content{
+    display: flex;
+    justify-content: space-around;
+    padding: 25px;
+}
+.ladies-accessories{
+    display: flex;
+    justify-content: space-around;
+}
+.ladies-accessories{
+    display: flex;
+    justify-content: space-around;
+}
+.sandals{
+    padding: 20px;
+}
+.mid-text{
+    display: flex;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 25px;
+    justify-content: space-between;
+}
+#mid-photos1{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+#mid-photos2{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+}
+.beanie{
+    display: flex;
+}
+.cyprie{
+    display: flex;
+}
+#middle-photo{
+    display: flex;
+    gap: 60px;
+    justify-content: space-around;
+    padding: 90px;
+}
+.text0{
+    margin-right: 60%;
+}
+#bottom-photos1{
+    display: flex;
+    justify-content: space-around;
+}
+.bottom-text{
+    margin-left: 45%;
+    padding: 100px;
+}
+#bottom-photos{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+#footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+
+
+    
+}
+
+
+    
+
